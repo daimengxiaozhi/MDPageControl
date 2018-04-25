@@ -1,0 +1,6 @@
+framework module MDPageControl {
+  umbrella header "MDPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
