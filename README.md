@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/MDPageControl.svg?style=flat)](http://cocoapods.org/pods/MDPageControl)
 [![Platform](https://img.shields.io/cocoapods/p/MDPageControl.svg?style=flat)](http://cocoapods.org/pods/MDPageControl)
 
+
+![example](demo.png)
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
