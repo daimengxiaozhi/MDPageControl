@@ -270,6 +270,7 @@ public class MDPageControl: UIControl {
         updateMeasuredIndicatorSizeWithSize(size: image!.size)
         setNeedsDisplay()
     }
+    
     override public func sizeThatFits(_ size:CGSize) -> CGSize {
         var sizeThatFits:CGSize = sizeForNumberOfPages(pageCount: numberOfPages)
         sizeThatFits.height = max(sizeThatFits.height,minHeight)
